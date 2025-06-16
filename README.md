@@ -1,1 +1,1 @@
-# Movie-catalog
+# HuffmanCoding
